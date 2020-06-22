@@ -12,7 +12,7 @@ In The Netherlands there is no such thing as a seconds address line. If we need 
 * optional addition to housenumber
 
 The goal is to ask these fields to the user. And then put them in WooCommerce address_1 as:
-<streetname> <housenumber> <addition>
+{streetname} {housenumber} {addition}
 
 That is what the correct format should be on a Dutch (Netherlands) address. 
 
